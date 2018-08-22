@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "An art exhibition and experience",
 	"scripts": {
-		"build": "parcel build index.html --public-url /frekyll/",
+		"build": "parcel build index.html --public-url ./",
 		"deploy": "gh-pages -d dist",
 		"lint": "xo && stylelint index.css",
 		"start": "parcel index.html"
