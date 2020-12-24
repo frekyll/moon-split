@@ -246,7 +246,7 @@ p + p {
 		.block:last-child {
 			background-color: #ddc2d6;
 			background-color: var(--color-pink);
-			background-image: url('static.10c2a923.jpg');
+			background-image: url('/static.10c2a923.jpg');
 			background-position: center;
 			background-size: cover;
 			display: block;
@@ -256,7 +256,7 @@ p + p {
 
 		.block:last-child.is-active {
 			background-blend-mode: multiply;
-			background-image: url('static.171edb3d.gif');
+			background-image: url('/static.171edb3d.gif');
 			-webkit-filter: initial;
 			        filter: initial;
 			opacity: 0.5;
@@ -305,3 +305,6 @@ p + p {
 		font-size: 2.75rem;
 	}
 }
+
+
+/*# sourceMappingURL=/moon-split.9ad09f98.css.map */
